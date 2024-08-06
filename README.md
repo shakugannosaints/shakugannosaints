@@ -1,4 +1,4 @@
-![longtrail](https://torappu.prts.wiki/assets/medal_diy/medalGroupActivity25side.png)
+![lonetrail](https://torappu.prts.wiki/assets/medal_diy/medalGroupActivity25side.png)
 
   # Ciallo～(∠・ω< )⌒☆  
   普通的单机游戏玩家 🎮 TTRPG玩家 🐉 二次元 ✨ 复制粘贴拼接代码搬运工  
