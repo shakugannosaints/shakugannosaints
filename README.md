@@ -10,4 +10,3 @@
   ![clu2](https://media.prts.wiki/6/60/%E8%9A%80%E5%88%BB%E7%AB%A0_%E5%8F%AF%E9%9C%B2%E5%B8%8C%E5%B0%94%E5%B0%8F%E5%A5%96%E7%AB%A0.png)
   ![clu3](https://media.prts.wiki/d/d5/%E8%9A%80%E5%88%BB%E7%AB%A0_%E5%8F%AF%E9%9C%B2%E5%B8%8C%E5%B0%94%E5%B0%8F%E5%A5%96%E7%AB%A0%C2%B7%CE%B3.png)
   ![clu4]( https://media.prts.wiki/d/d2/%E8%9A%80%E5%88%BB%E7%AB%A0_%E5%8F%AF%E9%9C%B2%E5%B8%8C%E5%B0%94%E5%B0%8F%E5%A5%96%E7%AB%A0%C2%B7%CE%B4.png)  
-  ![lonetrail](https://torappu.prts.wiki/assets/medal_diy/medalGroupActivity25side.png)
