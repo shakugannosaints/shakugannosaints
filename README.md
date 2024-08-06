@@ -5,7 +5,6 @@
 <section class="introduction">
   <h1>Ciallo～(∠・ω< )⌒☆</h1>
   <p>普通的单机游戏玩家 🎮 TTRPG玩家 🐉 二次元 ✨ 复制粘贴拼接代码搬运工 </p>
-    <iframe src="https://chessin5d.nkid00.name/#/" width="600" height="400"></iframe>
 </section>
 </body>
 </html>
