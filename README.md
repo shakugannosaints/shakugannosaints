@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/3f6d0eb9-64af-4b65-a965-0e9636118aa3)<!--- Banner Image --->
 <img class="banner" src="https://s2.loli.net/2023/05/23/Msj5XkZtJ8fb3a7.jpg" alt="Banner Image">
 
 <!--- Introduction Section --->
