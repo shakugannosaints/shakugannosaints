@@ -1,7 +1,7 @@
 
 
   # Ciallo～(∠・ω< )⌒☆  
-  普通的单机游戏玩家 🎮 TTRPG玩家 🐉 二次元 ✨ 复制粘贴拼接代码搬运工  
+  普通的单机游戏玩家 🎮 TTRPG玩家 🐉 二次元 ✨ 复制粘贴拼接AI代码搬运工
   5d chess玩家![5dc](https://github.com/NKID00/chess-in-5d-stripped/blob/stripped/public/favicon-16x16.png?raw=true) 中国5d chess社区创建与主要贡献者  
   ## 干员档案
   [![Steam Card](https://cardv.yuy1n.io/card/76561198096596154/dark,badge,group,games,badges,screenshots)](https://steamcommunity.com/profiles/76561198096596154)  
